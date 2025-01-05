@@ -1,2 +1,3 @@
 # KTTX5_HKII_Password-Generator
-Chương trình hỗ trợ tạo nên mật khẩu ngẫu nhiên
+Mô tả: Chương trình hỗ trợ tạo nên mật khẩu ngẫu nhiên
+Hướng dẫn sử dụng:
