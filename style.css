@@ -39,6 +39,17 @@ body {
     outline: 0;
     font-size: 24px;
 }
+.display img {
+    width: 8% ; 
+    height: 8%; 
+    cursor: pointer;
+    
+}
+button img {
+    width: 20%; 
+    height: 20%; 
+    margin-right: 10px;
+}
 .container button{
     border: 0;
     outline: 0;
